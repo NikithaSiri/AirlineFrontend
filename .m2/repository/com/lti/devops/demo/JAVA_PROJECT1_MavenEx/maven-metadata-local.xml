@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.lti.devops.demo</groupId>
+  <artifactId>JAVA_PROJECT1_MavenEx</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210727072913</lastUpdated>
+  </versioning>
+</metadata>
